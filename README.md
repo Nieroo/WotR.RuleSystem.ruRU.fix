@@ -6,7 +6,7 @@
 
 ## Установка
 
-Скачайте файл `ruRU.json` и сохраните/скопируйте с заменой в папку с файлами локализаций игры. Например, для Steam эта папка будет находится в по пути `"{Путь_до_Хранилища_игр_Steam}\steamapps\common\Pathfinder Second Adventure"`.
+Скачайте файл `ruRU.json` и сохраните/скопируйте с заменой в папку с файлами локализаций игры. Например, для Steam эта папка будет находится в по пути `"{Путь_до_Хранилища_игр_Steam}\steamapps\common\Pathfinder Second Adventure\Wrath_Data\StreamingAssets\Localization"`.
 
 ## Список изменений
 
