@@ -12,3 +12,4 @@
 ### Прочее
 
 - [2026-04-11] [Добавлена локализация для уникального типа защиты NaturalArmorForm — "бонус формы к естественной броне"](https://github.com/Nieroo/WotR.RuleSystem.ruRU.fix/commit/cc6caa5474533e8ea3b1dea2811b078fc4650313)
+- [2026-04-13] [Добавлена поддержка мода DynamicLocalizationLoader](https://github.com/Nieroo/WotR.RuleSystem.ruRU.fix/commit/18a5cb1eccea120acc6d0ba99acd8150d3dbdb5d)
