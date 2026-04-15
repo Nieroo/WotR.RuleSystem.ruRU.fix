@@ -9,6 +9,7 @@
 ## Магия
 
 - [2026-04-08] [Дескриптор "charm" переименован с "очарования" на "обольщение"](https://github.com/Nieroo/WotR.RuleSystem.ruRU.fix/commit/a84533e09fd28b11e2217df34aaffdad8c4e3766)
+- [2026-04-15] ["Метаскипетры пронзающих заклинаний" и их описания изменены на "Метаскипетры интенсивных заклинаний"](https://github.com/Nieroo/WotR.RuleSystem.ruRU.fix/commit/c66df109c67ddcd2b585f3d9a55612c5c1897123)
 
 ### Заклинания
 
