@@ -6,6 +6,10 @@
 
 - [2026-04-14] [Для способности "Теневая форма" Заклинателя теней (Маг) уточнены бонусы от эффекта Трансформации](https://github.com/Nieroo/WotR.RuleSystem.ruRU.fix/commit/c570fa021264c4613f99f1aac3d04fe7d5a1f400)
 
+### Престиж-классы
+
+- [2026-04-15] [Исправлен список доступных домейнов для способности "Пентамическая вера" Рыцаря Преисподней](https://github.com/Nieroo/WotR.RuleSystem.ruRU.fix/commit/9f85a39dcfde472d84f3beea8047e261276d2537)
+
 ## Магия
 
 - [2026-04-08] [Дескриптор "charm" переименован с "очарования" на "обольщение"](https://github.com/Nieroo/WotR.RuleSystem.ruRU.fix/commit/a84533e09fd28b11e2217df34aaffdad8c4e3766)
