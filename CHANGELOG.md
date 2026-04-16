@@ -9,6 +9,7 @@
 ### Престиж-классы
 
 - [2026-04-15] [Исправлен список доступных домейнов для способности "Пентамическая вера" Рыцаря Преисподней](https://github.com/Nieroo/WotR.RuleSystem.ruRU.fix/commit/9f85a39dcfde472d84f3beea8047e261276d2537)
+- [2026-04-16] [Уточнено описание способности "Леденящий холод" Зимней ведьмы](https://github.com/Nieroo/WotR.RuleSystem.ruRU.fix/commit/de629700fbaa4fb156044e829f8532a2192a18bd)
 
 ## Магия
 
