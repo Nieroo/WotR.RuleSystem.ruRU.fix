@@ -36,6 +36,10 @@
 
 ## Мифические пути
 
+### Азата
+
+- [2026-04-21] [Уточнено описание заклинания "Радость жизни" Азаты согласно фактической работе](https://github.com/Nieroo/WotR.RuleSystem.ruRU.fix/commit/bee76ecca0e3305f1d8751f02b11d699fbc40852)
+
 ### Лич
 
 - [2026-04-21] [Уточнено описание способности "Гибель стихий" Лича согласно фактической работе](https://github.com/Nieroo/WotR.RuleSystem.ruRU.fix/commit/e90f0d19add4f65da6b86bf97c1ccc7c83d26df4)
