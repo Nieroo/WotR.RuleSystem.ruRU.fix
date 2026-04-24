@@ -24,6 +24,10 @@
 
 - [2026-04-18] [Уточнено описание способности "Сакральный бич" Очистителя (Оракул)](https://github.com/Nieroo/WotR.RuleSystem.ruRU.fix/commit/84b6ed94c669605ab5a78b5cdbb823f08df8060f)
 
+### Шамана
+
+- [2026-04-24] [Изменено и дополнено описание способности "Дух" Шамана](https://github.com/Nieroo/WotR.RuleSystem.ruRU.fix/commit/0052bee1d248a06b4926db7e26d40293b3d68d99)
+
 ### Престиж-классы
 
 - [2026-04-15] [Исправлен список доступных домейнов для способности "Пентамическая вера" Рыцаря Преисподней](https://github.com/Nieroo/WotR.RuleSystem.ruRU.fix/commit/9f85a39dcfde472d84f3beea8047e261276d2537)
