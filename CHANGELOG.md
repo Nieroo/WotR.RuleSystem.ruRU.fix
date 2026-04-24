@@ -61,6 +61,7 @@
 
 - [2026-04-14] [Дополнено описание пояса "Безупречный пояс физического великолепия +8" более точной информацией о фактическом бонусе](https://github.com/Nieroo/WotR.RuleSystem.ruRU.fix/commit/fde2a26e419ba66a8d036adf14e3075b3c146a69)
 - [2026-04-14] [Для робы "Источник разделяющей силы" улучшено описание бонусов](https://github.com/Nieroo/WotR.RuleSystem.ruRU.fix/commit/12b9be4bafb117805c177e9ab713487250b2a861)
+- [2026-04-24] [Уточнено описание предмета "Перчатки неофита"](https://github.com/Nieroo/WotR.RuleSystem.ruRU.fix/commit/22f33b5f81b6b92a09703fba8cc63a935493971c)
 
 ## Прочее
 
